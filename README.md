@@ -27,7 +27,9 @@ Este proyecto se enfoca en el análisis de la evasión de clientes ( o Abandono)
 4. **Ejecutar las celdas**:
    Ejecuta todas las celdas en orden para reproducir el análisis completo.
 
-## Estructura del proyecto
+## Estructura del proyecto al ejecutarse
+
+La carpeta de imagenes se creara al ejecutarse el proyecto
 ```
 Challenge Telecom X/
 │
